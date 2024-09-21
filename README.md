@@ -14,7 +14,7 @@ from versionrunner import *
 search_version(__file__)  # or search_version('your_file_name')
 ```
 
-## Example [code](https://github.com/TCK2001/Alarm_APP)
+## Example [main.py code](https://github.com/TCK2001/Alarm_APP)
 ```python
 # for database
 import sqlite3
