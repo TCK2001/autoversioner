@@ -1,4 +1,9 @@
 # versionrunner
+
+## Blog review : [Medium](https://medium.com/@hichengkang/automate-the-creation-of-the-requirements-txt-file-using-a-new-python-library-2f3271d81618)
+Updates : 
++ 2024/09/21 : Officially released on PyPI. ✅
+
 ## Motivation
 
 After writing a program, it is essential to generate a `requirements.txt` file before distribution, so that other users can easily recreate the deployed program.
